@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Compétences
+# Compétences Techniques
 
 ## Langages et Outils
 
