@@ -75,3 +75,13 @@
 [![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![InDesign](https://img.shields.io/badge/InDesign-FF3366?style=for-the-badge&logo=adobe-indesign&logoColor=white)](https://www.adobe.com/products/indesign.html)
 
+# Compétences Managériales
+![Pilotage / Coordination équipes](https://img.shields.io/badge/Pilotage_%2F_Coordination_équipes-0078D6?style=for-the-badge)
+![Gestion clients](https://img.shields.io/badge/Gestion_clients-4479A1?style=for-the-badge)
+![Fixation objectifs](https://img.shields.io/badge/Fixation_objectifs-FF6600?style=for-the-badge)
+![Proposition axes d’améliorations](https://img.shields.io/badge/Proposition_axes_d’améliorations-6DB33F?style=for-the-badge)
+![Garant satisfaction client](https://img.shields.io/badge/Garant_satisfaction_client-FF3366?style=for-the-badge)
+![Gestion planning déploiements](https://img.shields.io/badge/Gestion_planning_déploiements-31A8FF?style=for-the-badge)
+![Expertise dans les KPI](https://img.shields.io/badge/Expertise_dans_les_KPI-FF9A00?style=for-the-badge)
+![Conseil en management](https://img.shields.io/badge/Conseil_en_management-1877F2?style=for-the-badge)
+
